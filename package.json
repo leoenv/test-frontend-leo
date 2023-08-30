@@ -1,0 +1,19 @@
+{
+  "name": "teste-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^11.0.0",
+    "cypress-xpath": "^2.0.1"
+  },
+  "dependencies": {
+    "cypress-real-events": "^1.10.1"
+  }
+}
